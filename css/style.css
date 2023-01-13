@@ -1,3 +1,15 @@
+body {
+    
+        font-family: 'Roboto';
+
+}
+.new{
+    font-style: italic;
+    color: white;
+}
+nav {
+    display: inline;
+}
 .box{
 
     width: 600px;
